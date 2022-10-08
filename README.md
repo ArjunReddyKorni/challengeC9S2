@@ -72,7 +72,7 @@ Use Array's map method to transform each order item.​
 - The delivery outlet gives a freebies of 1 Coke when the customer order contains Main meal worth more than $40 with Coke.​
 
 - Create `calculateMainMealAmount(orderAmount)` to calculate the subtotal amount for main meal using Array's filter and reduce method. Function chaining should be used when required.​
-- Create `calculateTotalAmount(orderAmount, mainMealAmount)`  to find the `totalAmount` of the order based on the calculated `mainMealAmount` value.​
+- Create `calculateTotalAmount(orderAmount, mainMealAmount)`  to find the `totalAmount` of the order based on the calculated `mainMealAmount` value.​ 
 
    * `totalAmount` should be calculated using Array's reduce method from the `orderAmount​`
 
